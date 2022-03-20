@@ -1,4 +1,4 @@
-# Interview
+# 개념,원리 Stody
 
 # 🛎 Interview Study | 면접 예상 질문 스터디
 
